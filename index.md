@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Hello World!
-tagline: Supporting tagline
+tagline: Greeting Earthlings since 2020
 ---
 {% include JB/setup %}
 
