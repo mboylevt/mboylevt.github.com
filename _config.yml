@@ -94,6 +94,13 @@ JB :
       colorscheme: light
     duoshuo :
       short_name : jekyllbootstrap
+
+  markdown: kramdown
+  highlighter: rouge
+  kramdown:
+    input: GFM #Github Flavored Markdown
+    hard_wrap: false  
+    syntax_highlighter: rouge
    
   # Settings for analytics helper
   # Set 'provider' to the analytics provider you want to use.
