@@ -55,3 +55,85 @@ ShapeJS is a parametric design tool, which means that you describe the geometry 
 }
 ```
 
+Let’s take it a few lines at a time.
+
+```javascript
+   var radius=25*MM;
+   var sphere=new Sphere(radius);
+   var gyroid=new VolumePatterns.Gyroid(args.period*MM,args.thickness*MM);
+```
+
+These first three lines define two pieces of geometry: a sphere of radius 25mm and a gyroid with period and thickness defined by user-provided arguments.
+
+```javascript
+   var intersect=new Intersection();
+   intersect.setBlend(2*MM);
+   intersect.add(sphere);
+   intersect.add(gyroid);
+```
+
+These four lines create a boolean intersection, set a blending radius to define how sharply the objects intersect each other (think photoshop blur tool), and then add both our sphere and our gyroid to the intersection. This effectively creates the sphere, then removes from it the area defined by the gyroid. 
+
+```javascript
+var s=26*MM;
+return new Scene(intersect,new Bounds(-s,s,-s,s,-s,s));
+```
+
+These final two lines create a ShapeJS Scene, which describes the visual render that will be returned to the ShapeJS interpreter for display. This scene is 52 milimeters wide, and contains the intersection of the sphere and the gyroid right in the middle. Running this function in the ShapeJS IDE will result in a nice, posable gyroid. You can play around with this [here](http://shapejs.shapeways.com/ide?shapeJsScript=/rrstatic/javascript/shapejs/2.0/scripts/gyroid.js). There are other features such as configuring the UX that you’ll see in the code, but I omitted them for brevity.
+<br>
+<figure>
+	<center>
+  		<img src="/assets/img/how-shapeways-software-enables-3d-printing-at-scale/gyroid.png" />
+  		<figcaption>A Gyroid via ShapeJS</figcaption>
+	</center>
+</figure>
+<br>
+
+Now, let’s talk about IP safety. The crux of the issue is this: so long as we’re sending the actual 3D model file over the internet to the customer, we’re putting the model owner’s IP at risk. ShapeJS doesn’t work this way. Rather, what ShapeJS does is connect directly to a Shapeways-owned graphics card, where scripts interpret the model, and their results are returned to the user. The results, in this case, are 2D images of the portion of the 3D model that is visible in the scene. When the user interacts with the scene, the GPU renders the new “view” from the users perspective and streams it to their browser. This happens quite quickly and creates an animation that gives the end user the impression that they’re manipulating a 3D model in their browser. Here’s what those back end calls look like:
+
+<br>
+<figure>
+	<center>
+  		<img src="/assets/img/how-shapeways-software-enables-3d-printing-at-scale/network-console.png" />
+  		<figcaption>Streaming Graphics Modeling Animation</figcaption>
+	</center>
+</figure>
+<br>
+
+### Managing the 3D Printing Infrastructure
+
+Everything described up to this point is focused at the consumer-facing portion of Shapeways. However, we’re more than a website—Shapeways has two 3D printing facilities running around 80 machines in total, a supply chain network of over 70 production partners for overflow and special materials, and a global distribution footprint. We process over 10,000 individual (and often unique) parts through our system on a daily basis. In order to coordinate all of this activity, we’ve built an Enterprise Resource Planning (or ERP) tool, Inshape, from the ground-up, focused on the unique challenges presented by 3D printing.
+
+ERPs are nothing new. Companies like Netsuite (now Oracle), SAP, Siemens, and more have been providing ERP software since the mid 90s. However, these solutions are aimed at traditional business—high-value individual customers purchasing large quantities of parts from a finite catalog of available offerings. For example, consider Ford Motor Company. They’ve got a set number of vehicles, each with a set bill of materials. When they need replacement headlamps from their provider, they know exactly what they’re buying, how much it costs, and who to pay for it. 
+
+Compare this to Shapeways: we have a large number of retail (implicity low-value, when compared to enterprises) customers, purchasing small quantities from a theoretically infinite catalogue of available offerings (something like 50% of what’s ordered on Shapeways on any given day is being ordered for the very first time). The available offerings just didn’t fit with our business needs. So if you can’t buy them, build them. 
+
+Inshape is a web-based ERP, designed with the goal of shepherding our customer orders from placement to shipment quickly, reliably, and at a high level of quality. Under the hood, Inshape is a collection of tools and services built to meet our goals, including up-to-the-second part tracking, workflow planning, quality monitoring, machine interfaces, and shipping provider integrations. I’ll speak specifically about two technically interesting features of Inshape: build planning and equipment monitoring
+
+When most people think of a 3D printer, the first image that pops into mind is something like a makerbot: a desktop printer that produces a single part at a time. At Shapeways, we’re using industrial 3D printers capable of producing up to 1000 parts at once. In order to use our machines as efficiently as possible, we need to get as many of our current backlog of parts into a printer as we safely can on every single build. This is what’s known in computer science as a [Packing Problem](https://en.wikipedia.org/wiki/Packing_problems). Where we differ from the norm is that we’re not packing known objects; we’re packing a unique set of parts that varies every single time we need to pack a job. 
+
+To solve this problem, we’ve built our own, in-house packing solution. We combine the knowledge we have about our customer lead times, specific geometries in our pipeline, known capabilities of our individual printers, and years of experience manufacturing parts into a service which autonomously and iteratively packs jobs for production. We’ve been able to almost double the industry standard of job density though this system, resulting in shorter lead times for our customers and more throughput for our factories.
+
+<br>
+<figure>
+	<center>
+  		<img src="/assets/img/how-shapeways-software-enables-3d-printing-at-scale/neutronium.png" height="600" width="915" />
+  		<figcaption>Tray Packing</figcaption>
+	</center>
+</figure>
+<br>
+
+Now, about those machines. As mentioned earlier, they’re not your standard desktop 3D printers. They’re expensive assets that have maintenance requirements, service contracts, and individuals designated to each of them who are responsible for keeping them up and running. These machines produce a ton of data about each individual job—how long did it run, how much material did it consume, what percentage of each individual layer of the build was exposed to the sintering laser… the list goes on. On most of our printers, however, this data was never designed to leave the machine. This makes it almost impossible to aggregate this data with the overall production data that we have in our system. Boo!
+
+The good news is that, by hook or by crook, we’re able to retrieve this data from most of our machines. Whether it’s by API client (the best case) to remotely monitoring log files and inferring actions (not the best case), we have designed a system to collect data from these machines and aggregate it in a primary data center location. The system is really neat—we’ve built a service that’s capable of being deployed as a primary (in the data center, as an authoritative source) or buffer (in the factories, directly communicating to machines) configuration. This split enables us to have real-time access to machine data in our factories for real-time decisions, while ensuring eventual consistency in our data centers for more historical reports like efficiency or uptime. As we continue to invest in understanding our manufacturing equipment, we see a direct correlation in our efficiency and speed of manufacturing.
+
+<br>
+<figure>
+	<center>
+  		<img src="/assets/img/how-shapeways-software-enables-3d-printing-at-scale/printer-status.png"/>
+  		<figcaption>Printer Status for a Production Cell</figcaption>
+	</center>
+</figure>
+<br>
+
+As you can see, software is a critical part of the 3D printing world. Whether it’s preparing a file for production, creating compelling visuals for merchandising and sales, or facilitating the production, fulfillment, and quality of the end print, if you don’t have the right software, you don’t have much. I hope this peek behind the curtain has been helpful. Thanks for reading!
