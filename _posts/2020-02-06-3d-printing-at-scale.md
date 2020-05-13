@@ -5,6 +5,8 @@ description: "While most news about the 3D printing industry focuses on advancem
 thumbnail: /assets/img/how-shapeways-software-enables-3d-printing-at-scale/neutronium.png
 category: software
 tags: shapeways, 3d printing
+image:
+  feature: printing-scale.jpg
 ---
 {% include JB/setup %}
 Originally posted on the [StackOverflow Blog](https://stackoverflow.blog/2020/02/06/how-shapeways-software-enables-3d-printing-at-scale/)
