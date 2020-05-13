@@ -18,7 +18,7 @@ While most news about the 3D printing industry focuses on advancement in hardwar
 Shapeways’ primary technology offerings can split into two categories—the ability to upload, repair, price, and purchase 3D models in a variety of materials, and back-end systems driving the manufacturing, distribution, and fulfillment of our orders at a global scale. I’m going to discuss three distinct pieces of software that occur in separate steps in the buying process: one that help customers upload designs and make purchases: Model Processing; one that securely shows the customer the final printable model: ShapeJS; and one that helps us manufacture, distribute, and fulfill those design purchases: Inshape. 
 
 
-### Processing Customer Models
+## Processing Customer Models
 
 Our first contact with a customer’s order is when they upload a 3D model. We have no control over the quality and printability of the model, so our software repairs errors during model generation where it can and analyzes their printability in a wide variety of materials. This is a very compute-heavy process—we calculate the model surface area and volume, determine the number of parts that the model is composed of, and examine the model for errors and attempt to repair them, all within a mean time of 25 seconds. 
 
@@ -32,7 +32,7 @@ Once we implemented these services, we had to string them together into what we 
 
 To ensure that our services remain available at all times, we needed another layer to manage traffic. So rather than pointing directly to the services themselves, these steps indicate [ActiveMQ](https://activemq.apache.org/) queues, which act as load balancers for a pool of services that can handle a pipeline step. Using ActiveMQ in this fashion allows us to run our services anywhere in our hybrid cloud, as well as to scale at the service level rather than the pipeline level. Need more mesh repair compute in Europe? Spin up more instances in either our data center or AWS and subscribe them to the queue. With this capability, we’re able to optimize our model processing compute power for both user experience and cost, providing a best-of-both-worlds experience for Shapeways and our customer base.
 
-### Secure Real-Time Rendering
+## Secure Real-Time Rendering
 
 Once we’ve got a printable model, we have to actually display it to the user in 3D for their review. Our uploaders have a chance to perform a visual review of key geometry components to be sure that our repair process didn’t alter the model. To assist with this review, we provide visualizations to help users understand potential problem areas with their models, such as thin walls or unintentionally connected parts. These visualizations are rendered directly on the users own computer graphics card, ensuring fast and reliable performance as they review their files. 
 
@@ -103,7 +103,7 @@ Now, let’s talk about IP safety. The crux of the issue is this: so long as we�
 </figure>
 <br>
 
-### Managing the 3D Printing Infrastructure
+## Managing the 3D Printing Infrastructure
 
 Everything described up to this point is focused at the consumer-facing portion of Shapeways. However, we’re more than a website—Shapeways has two 3D printing facilities running around 80 machines in total, a supply chain network of over 70 production partners for overflow and special materials, and a global distribution footprint. We process over 10,000 individual (and often unique) parts through our system on a daily basis. In order to coordinate all of this activity, we’ve built an Enterprise Resource Planning (or ERP) tool, Inshape, from the ground-up, focused on the unique challenges presented by 3D printing.
 
