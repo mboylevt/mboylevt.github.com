@@ -81,3 +81,13 @@ h1, h2, h3, h4 {
 figcaption {
   font-style: italic;
 }
+
+.social-icons-image a {
+  text-decoration: none;
+  font-size: 12px;
+  color: black;
+}
+
+.social-icons-image {
+  margin: 10px;
+}
