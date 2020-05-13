@@ -2,6 +2,7 @@
 layout: post
 title: "How Shapeways’ Software Enables 3D Printing at Scale"
 description: "While most news about the 3D printing industry focuses on advancement in hardware and materials, software has played a crucial role in the democratization of 3D printing. Companies like Shapeways have delivered software to generate 3D files, prepare and optimize them for printing, and manufacture and distribute."
+thumbnail: /assets/img/how-shapeways-software-enables-3d-printing-at-scale/neutronium.png
 category: software
 tags: shapeways, 3d printing
 ---

@@ -5,10 +5,28 @@ tagline: Thoughts on Software
 ---
 {% include JB/setup %}
 
-Read [Jekyll Quick Start](http://jekyllbootstrap.com/usage/jekyll-quick-start.html)
-
-Complete usage and documentation available at: [Jekyll Bootstrap](http://jekyllbootstrap.com)
-
+## Latest Blog Posts
+<p>
+<div class="row col-xs-12">
+  {% for post in site.posts limit:3 %}
+  <div>
+    <a href="{{ BASE_PATH }}{{ post.url }}"><h3>{{ post.title }}</h3></a>
+  <p>{% if post.thumbnail %}
+    <img src="{{ post.thumbnail }}" style="height: 280px" align="center" />
+  {% else %}
+    <img src="/images/nothumbnail.jpg" style="height: 280px" align="center" />
+  {% endif %}</p>
+  <p>&nbsp;</p>
+  <p>
+  {{ post.description | strip_html | truncatewords:40 }}
+  </p>
+  <p>
+  <a class="btn" href="{{ BASE_PATH }}{{ post.url }}">Read more...</a>
+  </p>
+  </div>
+  {% endfor %}
+</div>
+</p>
 ## Update Author Attributes
 
 In `_config.yml` remember to specify your own data:
