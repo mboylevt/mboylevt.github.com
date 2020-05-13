@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Hello World!
-tagline: Greeting Earthlings since 2020
+title: Matt Boyle
+tagline: Thoughts on Software
 ---
 {% include JB/setup %}
 

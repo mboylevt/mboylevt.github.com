@@ -130,7 +130,7 @@ The good news is that, by hook or by crook, we’re able to retrieve this data f
 <br>
 <figure>
 	<center>
-  		<img src="/assets/img/how-shapeways-software-enables-3d-printing-at-scale/printer-status.png"/>
+  		<img src="/assets/img/how-shapeways-software-enables-3d-printing-at-scale/printer-status-1.png"/>
   		<figcaption>Printer Status for a Production Cell</figcaption>
 	</center>
 </figure>
