@@ -84,7 +84,7 @@ These final two lines create a ShapeJS Scene, which describes the visual render 
 <figure>
 	<center>
   		<img src="/assets/img/how-shapeways-software-enables-3d-printing-at-scale/gyroid.png" />
-  		<figcaption>A Gyroid via ShapeJS</figcaption>
+  		<figcaption><i>A Gyroid via ShapeJS</i></figcaption>
 	</center>
 </figure>
 <br>
@@ -95,7 +95,7 @@ Now, let’s talk about IP safety. The crux of the issue is this: so long as we�
 <figure>
 	<center>
   		<img src="/assets/img/how-shapeways-software-enables-3d-printing-at-scale/network-console.png" />
-  		<figcaption>Streaming Graphics Modeling Animation</figcaption>
+  		<figcaption><i>Streaming Graphics Modeling Animation</i></figcaption>
 	</center>
 </figure>
 <br>
@@ -118,7 +118,7 @@ To solve this problem, we’ve built our own, in-house packing solution. We comb
 <figure>
 	<center>
   		<img src="/assets/img/how-shapeways-software-enables-3d-printing-at-scale/neutronium.png" height="600" width="915" />
-  		<figcaption>Tray Packing</figcaption>
+  		<figcaption><i>Tray Packing with Shapeways PLAN</i></figcaption>
 	</center>
 </figure>
 <br>
@@ -131,7 +131,7 @@ The good news is that, by hook or by crook, we’re able to retrieve this data f
 <figure>
 	<center>
   		<img src="/assets/img/how-shapeways-software-enables-3d-printing-at-scale/printer-status-1.png"/>
-  		<figcaption>Printer Status for a Production Cell</figcaption>
+  		<figcaption><i>Printer Status for a Production Cell</i></figcaption>
 	</center>
 </figure>
 <br>
