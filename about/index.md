@@ -2,7 +2,7 @@
 layout: page
 title: About
 image:
-  feature: qbb-snip.jpg
+  feature: qbb-snip-1.jpg
   credit: Reinhold Möller
   creditlink: https://commons.wikimedia.org/wiki/File:New_York_Queensboro_Bridge_1010944-PSD.jpg
 comments: false
