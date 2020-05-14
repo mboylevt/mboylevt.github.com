@@ -45,17 +45,17 @@ Enter [ShapeJS](https://shapejs.shapeways.com/v2/examples). ShapeJS is a JavaScr
 ShapeJS is a parametric design tool, which means that you describe the geometry you want to create in code, and the tool converts this into printable 3D geometry. For example, here’s a simple ShapeJS function to create a [gyroid](https://en.wikipedia.org/wiki/Gyroid) extruded through a sphere. 
 
 ```javascript
- function main(args) {
-    var radius=25*MM;
-    var sphere=new Sphere(radius);
-    var gyroid=new VolumePatterns.Gyroid(args.period*MM,args.thickness*MM);
-    var intersect=new Intersection();
-    intersect.setBlend(2*MM);
-    intersect.add(sphere);
-    intersect.add(gyroid);
-    var s=26*MM;
-    return new Scene(intersect,new Bounds(-s,s,-s,s,-s,s));
-}
+   function main(args) {
+      var radius=25*MM;
+      var sphere=new Sphere(radius);
+      var gyroid=new VolumePatterns.Gyroid(args.period*MM,args.thickness*MM);
+      var intersect=new Intersection();
+      intersect.setBlend(2*MM);
+      intersect.add(sphere);
+      intersect.add(gyroid);
+      var s=26*MM;
+      return new Scene(intersect,new Bounds(-s,s,-s,s,-s,s));
+  }
 ```
 
 Let’s take it a few lines at a time.
@@ -78,8 +78,8 @@ These first three lines define two pieces of geometry: a sphere of radius 25mm a
 These four lines create a boolean intersection, set a blending radius to define how sharply the objects intersect each other (think photoshop blur tool), and then add both our sphere and our gyroid to the intersection. This effectively creates the sphere, then removes from it the area defined by the gyroid. 
 
 ```javascript
-var s=26*MM;
-return new Scene(intersect,new Bounds(-s,s,-s,s,-s,s));
+  var s=26*MM;
+  return new Scene(intersect,new Bounds(-s,s,-s,s,-s,s));
 ```
 
 These final two lines create a ShapeJS Scene, which describes the visual render that will be returned to the ShapeJS interpreter for display. This scene is 52 milimeters wide, and contains the intersection of the sphere and the gyroid right in the middle. Running this function in the ShapeJS IDE will result in a nice, posable gyroid. You can play around with this [here](http://shapejs.shapeways.com/ide?shapeJsScript=/rrstatic/javascript/shapejs/2.0/scripts/gyroid.js). There are other features such as configuring the UX that you’ll see in the code, but I omitted them for brevity.
