@@ -8,9 +8,9 @@ tags: shapeways, devops, deployment
 image:
   feature: 3-best-practices.png
 ---
-Originally posted on the [Nordic APIs Blog](https://nordicapis.com/blog/)
+Originally posted on the [Nordic APIs Blog](https://nordicapis.com/three-best-practices-to-achieve-release-when-ready/)
 <br><br>
-Watch a keynote @ 2016 Nordic APIs Platform Summit in Stockholm, Sweden based on this blog here - [Continuous Integration and Delivery at Shapeways](https://www.youtube.com/watch?v=qmsHazZcu9c)
+Watch a presentation @ 2016 Nordic APIs Platform Summit in Stockholm, Sweden based on this blog here - [Continuous Integration and Delivery at Shapeways](https://www.youtube.com/watch?v=qmsHazZcu9c)
 
 <br>
 <figure>
