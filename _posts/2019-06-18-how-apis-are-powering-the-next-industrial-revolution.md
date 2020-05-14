@@ -3,7 +3,7 @@ layout: post
 title: "How API's Are Powering the Next Industrial Revolution"
 description: "Digital manufacturing (leveraging digital file inputs to perform on-demand manufacturing: CNC routing, 3D Printing, etc) has been picking up steam since the late 90’s and is now replacing previous technologies as “state of the industry”.  This has been driven by the desire for custom-manufactured products, tailored to the needs of the specific individual or project."
 category: software
-tags: shapeways, 3d printing
+tags: shapeways, 3d printing, digital manufacturing, apis, 
 image:
   feature: 4th-revolution.jpg
 ---
