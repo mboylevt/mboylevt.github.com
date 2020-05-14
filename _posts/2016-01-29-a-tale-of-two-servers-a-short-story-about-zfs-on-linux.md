@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "A Tale of Two Servers: A Short Story About ZFS on Linux"
-description: "A functional testing framework written in Python"
+description: "It was not the best of times."
 thumbnail: /assets/img/how-shapeways-software-enables-3d-printing-at-scale/neutronium.png
 category: software
 tags: shapeways, devops, storage, zfs
