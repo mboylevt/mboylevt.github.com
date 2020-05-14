@@ -7,9 +7,8 @@ category: software
 tags: shapeways, devops, deployment, python, testing
 image:
   feature: acme-header.png
+  credit: The Acme Inventory Series - Rob Loukotka
 ---
-Header Image Credit: [The Acme Inventory Series](https://fringefocus.com/i/acme-inventory-series/) by Rob Loukotka 
-  <br><br>
 Originally posted on the [Shapeways Tech blog](https://medium.com/shapeways-tech/shapeways-skunkworks-the-coyote-framework-85ef734b0ff7)
 
 It’s a common enough idea: Where there’s software, there’s bugs. Whether you’re of a technical bent or not, you’ve almost certainly experienced a software bug in your life. From programs randomly crashing, to your favorite mobile game not recognizing your latest achievement, bugs have one commonality: they create a lousy (or, at the very least unexpected) user experience.
