@@ -10,7 +10,7 @@ image:
 ---
 Originally posted on the [Nordic APIs Blog](https://nordicapis.com/blog/)
 <br><br>
-Watch a keynote @ Nordic APIs in Stockholm, Sweden based on this blog here - [Continuous Integration and Delivery at Shapeways](https://www.youtube.com/watch?v=qmsHazZcu9c)
+Watch a keynote @ 2016 Nordic APIs Platform Summit in Stockholm, Sweden based on this blog here - [Continuous Integration and Delivery at Shapeways](https://www.youtube.com/watch?v=qmsHazZcu9c)
 
 <br>
 <figure>
