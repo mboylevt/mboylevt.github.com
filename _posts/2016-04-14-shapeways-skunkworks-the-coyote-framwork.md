@@ -4,7 +4,7 @@ title: "Shapeways Skunkworks: The Coyote Framework"
 description: "A functional testing framework written in Python"
 thumbnail: /assets/img/how-shapeways-software-enables-3d-printing-at-scale/neutronium.png
 category: software
-tags: shapeways, devops, deployment, python, testing
+tags: shapeways devops deployment python testing
 image:
   feature: acme-header.png
   credit: The Acme Inventory Series - Rob Loukotka

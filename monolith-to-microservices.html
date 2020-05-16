@@ -1,0 +1,19 @@
+---
+layout: page
+title: Monolith to Microservice Series
+header: Monoltih to Microservices
+group: navigation
+image:
+  feature: microservices-header.jpg
+---
+This is the index for my series on converting an entrenched monolithic application to a microservices architecture at <a href="https://www.shapeways.com" target="_blank">Shapeways</a>.  More entries will be added every few days until it's complete, so check back for more!
+
+{% for tag in site.tags %} 
+  {% if tag[0] == "monolith-to-microservices" %}
+    <ol>
+      {% assign pages_list = tag[1] | sort:order  %}  
+      {% include JB/pages_list %}
+    </ol>
+  {% endif %}
+{% endfor %}
+

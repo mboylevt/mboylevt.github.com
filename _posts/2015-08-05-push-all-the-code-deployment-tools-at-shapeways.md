@@ -3,7 +3,7 @@ layout: post
 title: "Push All the Code: Deployment Tools at Shapeways"
 description: "Ship it."
 category: software
-tags: shapeways, devops, deployment, continuous integration
+tags: shapeways devops deployment continuous-integration
 image:
   feature: ship-it.png
 ---

@@ -4,7 +4,7 @@ title: "Three Best Practices to Achieve Release When Ready"
 description: "How to stop worrying and love deployment"
 thumbnail: /assets/img/how-shapeways-software-enables-3d-printing-at-scale/neutronium.png
 category: software
-tags: shapeways, devops, deployment
+tags: shapeways devops deployment
 image:
   feature: 3-best-practices.png
 ---

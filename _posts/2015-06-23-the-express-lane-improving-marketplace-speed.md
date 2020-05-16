@@ -3,7 +3,7 @@ layout: post
 title: "The Express Lane - Improving Marketplace Speed"
 description: "Sometimes, you really DO need new hardware"
 category: software
-tags: shapeways, devops, solr, datacenter, e-commerce
+tags: shapeways devops solr datacenter e-commerce
 image:
   feature: express-lane.jpg
 ---
