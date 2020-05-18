@@ -8,7 +8,7 @@ tags: monolith-to-microservices api devops
 image:
   feature: microservices-header.jpg
 ---
-<i>This is the first in a series of posts about the transition from a monolith to microservices that I led at Shapeways as the Vice President of Architecture. This series will dig into the decision process around making the switch, selling it to the executive team, getting the organization on board, planning for success, and executing the change. I hope you find it useful!</i>
+<div style="font-size: 6;"><i>This is the first in a series of posts about the transition from a monolith to microservices that I led at Shapeways as the Vice President of Architecture. This series will dig into the decision process around making the switch, selling it to the executive team, getting the organization on board, planning for success, and executing the change. I hope you find it useful!  You can find the series index <a href="/monolith-to-microservices">here</a>.</i></div>
 
 In the fall of 2018, Shapeways decided that we were going to take our business in a new direction..  We wanted to expand from being a 3D Printing service bureau to being a technology platform, connecting business, consumers, and industries through our global supply chain and production facilities. As we weren’t yet sure exactly what group of products and features would be valuable to our future customers, we wanted to be able to test things quickly, built out simple MVPs to validate, and be comfortable tossing aside products that didn’t fit the bill.
 
