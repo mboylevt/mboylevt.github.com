@@ -12,7 +12,7 @@ image:
 <figure>
   <center>
       <img src="/assets/img/management-to-ic/shapeways_logo_before_after.png" />
-      <figcaption>The Times They Were a'Changin'</figcaption>
+      <figcaption>The Times They Were a Changin'</figcaption>
   </center>
 </figure>
 When we made the decision to transition to microservices, I was the VP of Engineering at Shapeways - effectively, the head of technology in the company.  My job was largely strategic and managerial - with a team of 30 with broad focuses and a director tier, the majority of my time was spent in planning with the executive team and working on strategy with the directors, with very little time spent developing software.  I loved having a hand in setting the direction of our business, and in working to coordinate technology work across the product, operations, commercial, and marketing organizations, but I was starting to miss what got me into software in the first place: building things that make customers smile.
