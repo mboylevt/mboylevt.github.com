@@ -28,7 +28,7 @@ Continuous Integration and Delivery at Shapeways
 ### Want to learn about brewing beer?
 Check out our homebrew club, [Brewstoria](https://www.brewstoria.com/)!
 
-You can find me here:
+### You can find me online at:
 <div class="container">
   <div class="row">
     <div class="social-icons-image col-xs-1">
