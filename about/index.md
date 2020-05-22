@@ -12,7 +12,21 @@ modified: 2020-05-13
 Hi there - I'm Matt, a technologist based in New York City.  I love to work on difficult problems where software and the physical world meet.  
 I'm presently the VP of Architecture at [Shapeways](https://www.shapeways.com), where we're bringing 3D printing to everyone. 
 
-When I'm not doing tech stuff, you can find me parenting our son, riding a bike, climbing a rock, brewing some beer, or playing Dungeons and Dragons.
+### Want to read some writing I've done for others?
+ * [StackOverflow - How Shapeways’ software enables 3D printing at scale](https://stackoverflow.blog/2020/02/06/how-shapeways-software-enables-3d-printing-at-scale/)
+ * [NordicAPIs Author Profile](https://nordicapis.com/author/mattboyle/)
+ * [Shapeways Tech Medium Publication](https://medium.com/shapeways-tech)
+
+### Want to hear me talk about building software? 
+Distributed Digital Manufacturing – How APIs are Powering the Next Industrial Revolution
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/WYXzJoewGLw/0.jpg)](http://www.youtube.com/watch?v=WYXzJoewGLw)
+<br>
+<br>
+Continuous Integration and Delivery at Shapeways
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/qmsHazZcu9c/0.jpg)](http://www.youtube.com/watch?v=qmsHazZcu9c)
+
+### Want to learn about brewing beer?
+Check out our homebrew club, [Brewstoria](https://www.brewstoria.com/)!
 
 You can find me here:
 <div class="container">
