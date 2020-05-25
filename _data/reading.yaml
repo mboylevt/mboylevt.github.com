@@ -1,0 +1,33 @@
+lastupdate: May 25, 2020
+list:
+  - year: "2020"
+    books:
+      - title: Release It! Design and Deploy Production-Ready Software
+        author: Michael T. Nygard
+        link: https://www.amazon.com/gp/product/B079YWMY2V/ref=ppx_yo_dt_b_d_asin_title_o00?ie=UTF8&psc=1
+        genre: Non-Fiction
+        star: yes
+
+      - title: Dragons of Autumn Twilight
+        author: Margaret Weiss and Tracy Hickman
+        link: https://www.amazon.com/Dragons-Autumn-Twilight-Chronicles-Dragonlance-ebook/dp/B004G606K8/
+        genre: Fantasy
+        star: yes
+
+      - title: Sixteenth Watch
+        author: Myke Cole
+        link: https://www.amazon.com/dp/B0844JLYVR/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1
+        genre: Sci-Fi
+        star: no
+
+      - title: The Gallows Black
+        author: Sam Sykes
+        link: https://www.amazon.com/gp/product/B07QFPY6MD/ref=ppx_yo_dt_b_d_asin_title_o04?ie=UTF8&psc=1
+        genre: Fantasy
+        star: no
+
+      - title: A Memory of Light (Wheel of Time Book 14)
+        author: Robert Jordan and Brandon Sanderson
+        link: https://www.amazon.com/gp/product/B00BMKDTNC/ref=ppx_yo_dt_b_d_asin_title_o05?ie=UTF8&psc=1
+        genre: Fantasy
+        star: yes
