@@ -2,6 +2,12 @@ lastupdate: May 25, 2020
 list:
   - year: "2020"
     books:
+      - title: The Silk Roads - A New History of the World
+        author: Peter Frankopan
+        link: https://www.amazon.com/dp/B00XN8UG3C/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1
+        genre: Non-Fiction
+        star: yes
+
       - title: Dragons of Winter Night
         author: Margaret Weiss and Tracy Hickman
         link: https://www.amazon.com/dp/B004G8P1J2/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1
@@ -37,3 +43,86 @@ list:
         link: https://www.amazon.com/gp/product/B00BMKDTNC/ref=ppx_yo_dt_b_d_asin_title_o05?ie=UTF8&psc=1
         genre: Fantasy
         star: yes
+
+  - year: "2019"
+    books:
+      - title: Towers of Midnight (Wheel of Time Book 13)
+        author: Robert Jordan and Brandon Sanderson
+        link: https://www.amazon.com/gp/product/B003P8Q5QC/ref=ppx_yo_dt_b_d_asin_title_o00?ie=UTF8&psc=1
+        genre: Fantasy
+        star: yes
+
+      - title: The Gathering Storm (Wheel of Time Book 12)
+        author: Robert Jordan and Brandon Sanderson
+        link: https://www.amazon.com/gp/product/B003K15O3E/ref=ppx_yo_dt_b_d_asin_title_o04?ie=UTF8&psc=1
+        genre: Fantasy
+        star: yes
+
+      - title: The Killing Light (Sacred Throne Book 3)
+        author: Myke Cole
+        link: https://www.amazon.com/gp/product/B07LF66TR3/ref=ppx_yo_dt_b_d_asin_title_o05?ie=UTF8&psc=1
+        genre: Fantasy
+        star: yes
+
+      - title: The Knife of Dreams (Wheel of Time Book 11)
+        author: Robert Jordan
+        link: https://www.amazon.com/gp/product/B000SEH2NG/ref=ppx_yo_dt_b_d_asin_title_o08?ie=UTF8&psc=1
+        genre: Fantasy
+        star: no
+
+      - title: The Queen of Crows (Sacred Throne Book 2)
+        author: Myke Cole
+        link: https://www.amazon.com/gp/product/B078X1CJVD/ref=ppx_yo_dt_b_d_asin_title_o09?ie=UTF8&psc=1
+        genre: Fantasy
+        star: no
+
+      - title: The Armored Saint (Sacred Throne Book 1)
+        author: Myke Cole
+        link: https://www.amazon.com/gp/product/B0711HCDDF/ref=ppx_yo_dt_b_d_asin_title_o01?ie=UTF8&psc=1
+        genre: Fantasy
+        star: yes
+
+      - title: The Hellsblood Bride
+        author: Chuck Wendig 
+        link: https://www.amazon.com/gp/product/B0170G5TFW/ref=ppx_yo_dt_b_d_asin_title_o03?ie=UTF8&psc=1
+        genre: Fantasy
+        star: yes
+
+      - title: Seven Blades in Black
+        author: Sam Sykes
+        link: https://www.amazon.com/gp/product/B079RCCRM6/ref=ppx_yo_dt_b_d_asin_title_o04?ie=UTF8&psc=1
+        genre: Fantasy
+        star: yes
+
+      - title: The Crossroads of Twilight (Wheel of Time Book 10)
+        author: Robert Jordan
+        link: https://www.amazon.com/gp/product/B003K15P9M/ref=ppx_yo_dt_b_d_asin_title_o01?ie=UTF8&psc=1
+        genre: Fantasy
+        star: no
+
+      - title: Celtic Empire
+        author: Clive Cussler
+        link: https://www.amazon.com/gp/product/B079R3KT4X/ref=ppx_yo_dt_b_d_asin_title_o05?ie=UTF8&psc=1
+        genre: Sci-Fi
+        star: no
+
+      - title: The Blue Blazes
+        author: Chuck Wendig 
+        link: https://www.amazon.com/gp/product/B0173XHGYY/ref=ppx_yo_dt_b_d_asin_title_o06?ie=UTF8&psc=1
+        genre: Fantasy
+        star: yes
+
+      - title: The Stars My Destination
+        author: Alfred Bester
+        link: https://www.amazon.com/gp/product/B0054LNIQS/ref=ppx_yo_dt_b_d_asin_title_o08?ie=UTF8&psc=1
+        genre: Sci-Fi
+        star: no
+
+      - title: Heart of Darkness
+        author: Joseph Conrad
+        link: https://www.amazon.com/gp/product/B0084AMNWQ/ref=ppx_yo_dt_b_d_asin_title_o01?ie=UTF8&psc=1
+        genre: Novella
+        star: yes
+
+
+
