@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Identifying our First Services - Peeling the Onion"
+title: "Identifying our First Services"
 description: "Identifying the first functional candidates for microservices"
 category: software
 order: 4
