@@ -46,6 +46,12 @@ list:
 
   - year: "2019"
     books:
+      - title: "Salt Fat Acid Heat: Mastering the Elements of Good Cooking"
+        author: Samin Nostrat
+        link: https://www.amazon.com/dp/B01MQCCXPW/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1
+        genre: Cooking
+        star: yes
+
       - title: Towers of Midnight (Wheel of Time Book 13)
         author: Robert Jordan and Brandon Sanderson
         link: https://www.amazon.com/gp/product/B003P8Q5QC/ref=ppx_yo_dt_b_d_asin_title_o00?ie=UTF8&psc=1
