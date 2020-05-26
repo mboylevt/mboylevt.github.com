@@ -2,7 +2,7 @@ lastupdate: May 25, 2020
 list:
   - year: "2020"
     books:
-      - title: The Silk Roads - A New History of the World
+      - title: "The Silk Roads: A New History of the World"
         author: Peter Frankopan
         link: https://www.amazon.com/dp/B00XN8UG3C/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1
         genre: Non-Fiction
@@ -124,5 +124,109 @@ list:
         genre: Novella
         star: yes
 
+  - year: "2018"
+    books:
+      - title: Winter's Heart (Wheel of Time Book 9)
+        author: Robert Jordan
+        link: https://www.amazon.com/gp/product/B003H3IOKU/ref=ppx_yo_dt_b_d_asin_title_o03?ie=UTF8&psc=1
+        genre: Fantasy
+        star: no
 
+      - title: Legion vs Phalanx 
+        author: Myke Cole
+        link: https://www.amazon.com/gp/product/B07FXNNWBT/ref=ppx_yo_dt_b_d_asin_title_o06?ie=UTF8&psc=1
+        genre: Non-Fiction
+        star: yes
+
+      - title: "Ghost Fleet: A Novel of the Next World War"
+        author: P.W. Singer and August Cole
+        link: https://www.amazon.com/gp/product/B00LZ7GOI4/ref=ppx_yo_dt_b_d_asin_title_o07?ie=UTF8&psc=1
+        genre: Novel, Fiction, Thriller
+        star: yes
+
+      - title: Artemis
+        author: Andy Weir
+        link: https://www.amazon.com/gp/product/B06Y55SB48/ref=ppx_yo_dt_b_d_asin_title_o01?ie=UTF8&psc=1
+        genre: Novel, Sci-Fi
+        star: no
+
+      - title: The Path of Daggers (Wheel of Time Book 8)
+        author: Robert Jordan
+        link: https://www.amazon.com/gp/product/B003H4I44K/ref=ppx_yo_dt_b_d_asin_title_o02?ie=UTF8&psc=1
+        genre: Fantasy
+        star: no
+
+      - title: A Crown of Swords (Wheel of Time Book 7)
+        author: Robert Jordan
+        link: https://www.amazon.com/gp/product/B003H4I5G2/ref=ppx_yo_dt_b_d_asin_title_o03?ie=UTF8&psc=1
+        genre: Fantasy
+        star: yes
+
+      - title: "Weapons of Math Destruction: How Big Data Increases Inequity and Threatens Democracy"
+        author: Cathy O'Neil
+        link: https://www.amazon.com/gp/product/B019B6VCLO/ref=ppx_yo_dt_b_d_asin_title_o06?ie=UTF8&psc=1
+        genre: Non-Fiction
+        star: no
+
+      - title: Himself
+        author: Jess Kidd
+        link: https://www.amazon.com/gp/product/B01HMXRX02/ref=ppx_yo_dt_b_d_asin_title_o08?ie=UTF8&psc=1
+        genre: Non-Fiction
+        star: no
+      
+      - title: Lord of Chaos (Wheel of Time Book 6)
+        author: Robert Jordan
+        link: https://www.amazon.com/gp/product/B003BQZ80M/ref=ppx_yo_dt_b_d_asin_title_o09?ie=UTF8&psc=1
+        genre: Fantasy
+        star: yes
+
+      - title: The Fires of Heaven (Wheel of Time Book 5)
+        author: Robert Jordan
+        link: https://www.amazon.com/gp/product/B0037V18D2/ref=ppx_yo_dt_b_d_asin_title_o01?ie=UTF8&psc=1
+        genre: Fantasy
+        star: yes
+      
+  - year: "2017"
+    books:
+      - title: The Shadow Rising (Wheel of Time Book 4)
+        author: Robert Jordan
+        link: https://www.amazon.com/gp/product/B00329UWL8/ref=ppx_yo_dt_b_d_asin_title_o00?ie=UTF8&psc=1
+        genre: Fantasy
+        star: yes
+        
+      - title: The Dragon Reborn (Wheel of Time Book 3)
+        author: Robert Jordan
+        link: https://www.amazon.com/gp/product/B0030AF5DO/ref=ppx_yo_dt_b_d_asin_title_o01?ie=UTF8&psc=1
+        genre: Fantasy
+        star: yes
+
+      - title: The Great Hunt (Wheel of Time Book 2)
+        author: Robert Jordan
+        link: https://www.amazon.com/gp/product/B002VBV1R2/ref=ppx_yo_dt_b_d_asin_title_o08?ie=UTF8&psc=1
+        genre: Fantasy
+        star: yes
+
+      - title: The Eye of the World (Wheel of Time Book 1)
+        author: Robert Jordan
+        link: https://www.amazon.com/gp/product/B002U3CCYM/ref=ppx_yo_dt_b_d_asin_title_o09?ie=UTF8&psc=1
+        genre: Fantasy
+        star: yes
+
+      - title: The Dark Forest
+        author: Cixin Liu, Joel Martinsen
+        link: https://www.amazon.com/gp/product/B00R13OYU6/ref=ppx_yo_dt_b_d_asin_title_o02?ie=UTF8&psc=1
+        genre: Sci-Fi
+        star: no
+
+      - title: "Sapians: A Brief History of Humankind"
+        author: Cixin Liu, Joel Martinsen
+        link: https://www.amazon.com/gp/product/B00ICN066A/ref=ppx_yo_dt_b_d_asin_title_o02?ie=UTF8&psc=1
+        genre: Sci-Fi
+        star: yes
+
+      - title: "Exit West: A Novel"
+        author: Mohsin Hamid
+        link: https://www.amazon.com/gp/product/B01H17U9OQ/ref=ppx_yo_dt_b_d_asin_title_o03?ie=UTF8&psc=1
+        genre: Sci-Fi
+        star: yes
 
