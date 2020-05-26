@@ -2,6 +2,12 @@ lastupdate: May 25, 2020
 list:
   - year: "2020"
     books:
+      - title: Dragons of Winter Night
+        author: Margaret Weiss and Tracy Hickman
+        link: https://www.amazon.com/dp/B004G8P1J2/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1
+        genre: Fantasy
+        star: yes
+
       - title: Release It! Design and Deploy Production-Ready Software
         author: Michael T. Nygard
         link: https://www.amazon.com/gp/product/B079YWMY2V/ref=ppx_yo_dt_b_d_asin_title_o00?ie=UTF8&psc=1
