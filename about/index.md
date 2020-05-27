@@ -12,6 +12,12 @@ modified: 2020-05-13
 Hi there - I'm Matt, a technologist based in New York City.  I love to work on difficult problems where software and the physical world meet.  
 I'm presently the VP of Architecture at [Shapeways](https://www.shapeways.com), where we're bringing 3D printing to everyone. 
 
+### Looking for some of my content?
+ * [Monolith -> Microservices Series](/monolith-to-microservices/)
+ * [Blog Posts](/posts)
+ * [Reading List](/reading/)
+
+
 ### Want to read some writing I've done for others?
  * [StackOverflow - How Shapeways’ software enables 3D printing at scale](https://stackoverflow.blog/2020/02/06/how-shapeways-software-enables-3d-printing-at-scale/)
  * [NordicAPIs Author Profile](https://nordicapis.com/author/mattboyle/)
