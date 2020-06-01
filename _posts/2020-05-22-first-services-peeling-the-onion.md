@@ -56,4 +56,4 @@ The 3D printing space has a spectrum of production technologies and companies ma
 
 We had long wanted to build an application that understood how to consume the available data we had from all machines and unify it with our ERP system to provide a complete picture of our production environment. As this required a specialized understanding of each machine in our stable, plus would require a new section of our monolith in the old world, we never got around to it.  However, this was a perfect candidate for our first core service.  It would provide new data about the production of our parts that we could unify with our existing ERP data, giving both our internal production teams and our customers deeper insight into the quality of the parts that we were producing
 
-We had identified our first two services - Tax, and Equipment Monitoring.  The next post will focus on our approach to implementing the tax service.
+We had identified our first two services - Tax, and Equipment Monitoring.  The next post will focus on our approach to implementing the equipment monitoring service.
