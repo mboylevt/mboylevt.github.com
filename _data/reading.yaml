@@ -6,56 +6,47 @@ list:
         author: Wizards of the Coast
         link: https://www.amazon.com/Dungeons-Dragons-Monster-Rulebook-Roleplaying/dp/0786965614/ref=pd_bxgy_img_3/143-1466735-4306141
         genre: Gaming
-        star: yes
-
+        
       - title: "Curse of Strahd (Dungeons and Dragons)"
         author: Wizards of the Coast
         link: https://www.amazon.com/Curse-Strahd-Dungeons-Sourcebook-Supplement/dp/0786965983/ref=sr_1_1?dchild=1&keywords=curse+of+strahd&qid=1591301787&sr=8-1
         genre: Gaming
-        star: yes
-
+        
       - title: "Dungeons & Dragons Dungeon Master's Guide, Fifth Edition"
         author: Wizards of the Coast
         link: https://www.amazon.com/Dungeons-Dragons-Dungeon-Rulebook-Roleplaying/dp/0786965622/ref=pd_bxgy_img_3/143-1466735-4306141
         genre: Gaming
-        star: yes
-
+        
       - title: "Dungeons & Dragons Players Handbook, Fifth Edition"
         author: Wizards of the Coast
         link: https://www.amazon.com/Players-Handbook-Dungeons-Dragons-Wizards/dp/0786965606
         genre: Gaming
-        star: yes
-
+        
       - title: "Flour Water Salt Yeast: The Fundamentals of Artisan Bread and Pizza"
         author: Ken Forkish
         link: https://www.amazon.com/dp/B007SGLZH6/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1
         genre: Cooking
-        star: yes
-
+        
       - title: "The Silk Roads: A New History of the World"
         author: Peter Frankopan
         link: https://www.amazon.com/dp/B00XN8UG3C/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1
         genre: Non-Fiction
-        star: yes
-
+        
       - title: Dragons of Winter Night
         author: Margaret Weiss and Tracy Hickman
         link: https://www.amazon.com/dp/B004G8P1J2/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1
         genre: Fantasy
-        star: yes
-
+        
       - title: Release It! Design and Deploy Production-Ready Software
         author: Michael T. Nygard
         link: https://www.amazon.com/gp/product/B079YWMY2V/ref=ppx_yo_dt_b_d_asin_title_o00?ie=UTF8&psc=1
         genre: Non-Fiction
-        star: yes
-
+        
       - title: Dragons of Autumn Twilight
         author: Margaret Weiss and Tracy Hickman
         link: https://www.amazon.com/Dragons-Autumn-Twilight-Chronicles-Dragonlance-ebook/dp/B004G606K8/
         genre: Fantasy
-        star: yes
-
+        
       - title: Sixteenth Watch
         author: Myke Cole
         link: https://www.amazon.com/dp/B0844JLYVR/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1
@@ -72,7 +63,7 @@ list:
         author: Robert Jordan and Brandon Sanderson
         link: https://www.amazon.com/gp/product/B00BMKDTNC/ref=ppx_yo_dt_b_d_asin_title_o05?ie=UTF8&psc=1
         genre: Fantasy
-        star: yes
+        
 
   - year: "2019"
     books:
@@ -80,26 +71,22 @@ list:
         author: Samin Nostrat
         link: https://www.amazon.com/dp/B01MQCCXPW/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1
         genre: Cooking
-        star: yes
-
+        
       - title: Towers of Midnight (Wheel of Time Book 13)
         author: Robert Jordan and Brandon Sanderson
         link: https://www.amazon.com/gp/product/B003P8Q5QC/ref=ppx_yo_dt_b_d_asin_title_o00?ie=UTF8&psc=1
         genre: Fantasy
-        star: yes
-
+       
       - title: The Gathering Storm (Wheel of Time Book 12)
         author: Robert Jordan and Brandon Sanderson
         link: https://www.amazon.com/gp/product/B003K15O3E/ref=ppx_yo_dt_b_d_asin_title_o04?ie=UTF8&psc=1
         genre: Fantasy
-        star: yes
-
+        
       - title: The Killing Light (Sacred Throne Book 3)
         author: Myke Cole
         link: https://www.amazon.com/gp/product/B07LF66TR3/ref=ppx_yo_dt_b_d_asin_title_o05?ie=UTF8&psc=1
         genre: Fantasy
-        star: yes
-
+       
       - title: The Knife of Dreams (Wheel of Time Book 11)
         author: Robert Jordan
         link: https://www.amazon.com/gp/product/B000SEH2NG/ref=ppx_yo_dt_b_d_asin_title_o08?ie=UTF8&psc=1
@@ -116,20 +103,17 @@ list:
         author: Myke Cole
         link: https://www.amazon.com/gp/product/B0711HCDDF/ref=ppx_yo_dt_b_d_asin_title_o01?ie=UTF8&psc=1
         genre: Fantasy
-        star: yes
-
+        
       - title: The Hellsblood Bride
         author: Chuck Wendig 
         link: https://www.amazon.com/gp/product/B0170G5TFW/ref=ppx_yo_dt_b_d_asin_title_o03?ie=UTF8&psc=1
         genre: Fantasy
-        star: yes
-
+        
       - title: Seven Blades in Black
         author: Sam Sykes
         link: https://www.amazon.com/gp/product/B079RCCRM6/ref=ppx_yo_dt_b_d_asin_title_o04?ie=UTF8&psc=1
         genre: Fantasy
-        star: yes
-
+        
       - title: The Crossroads of Twilight (Wheel of Time Book 10)
         author: Robert Jordan
         link: https://www.amazon.com/gp/product/B003K15P9M/ref=ppx_yo_dt_b_d_asin_title_o01?ie=UTF8&psc=1
@@ -146,8 +130,7 @@ list:
         author: Chuck Wendig 
         link: https://www.amazon.com/gp/product/B0173XHGYY/ref=ppx_yo_dt_b_d_asin_title_o06?ie=UTF8&psc=1
         genre: Fantasy
-        star: yes
-
+        
       - title: The Stars My Destination
         author: Alfred Bester
         link: https://www.amazon.com/gp/product/B0054LNIQS/ref=ppx_yo_dt_b_d_asin_title_o08?ie=UTF8&psc=1
@@ -158,8 +141,7 @@ list:
         author: Joseph Conrad
         link: https://www.amazon.com/gp/product/B0084AMNWQ/ref=ppx_yo_dt_b_d_asin_title_o01?ie=UTF8&psc=1
         genre: Novella
-        star: yes
-
+        
   - year: "2018"
     books:
       - title: Winter's Heart (Wheel of Time Book 9)
@@ -172,14 +154,12 @@ list:
         author: Myke Cole
         link: https://www.amazon.com/gp/product/B07FXNNWBT/ref=ppx_yo_dt_b_d_asin_title_o06?ie=UTF8&psc=1
         genre: Non-Fiction
-        star: yes
-
+        
       - title: "Ghost Fleet: A Novel of the Next World War"
         author: P.W. Singer and August Cole
         link: https://www.amazon.com/gp/product/B00LZ7GOI4/ref=ppx_yo_dt_b_d_asin_title_o07?ie=UTF8&psc=1
         genre: Novel, Fiction, Thriller
-        star: yes
-
+        
       - title: Artemis
         author: Andy Weir
         link: https://www.amazon.com/gp/product/B06Y55SB48/ref=ppx_yo_dt_b_d_asin_title_o01?ie=UTF8&psc=1
@@ -196,8 +176,7 @@ list:
         author: Robert Jordan
         link: https://www.amazon.com/gp/product/B003H4I5G2/ref=ppx_yo_dt_b_d_asin_title_o03?ie=UTF8&psc=1
         genre: Fantasy
-        star: yes
-
+        
       - title: "Weapons of Math Destruction: How Big Data Increases Inequity and Threatens Democracy"
         author: Cathy O'Neil
         link: https://www.amazon.com/gp/product/B019B6VCLO/ref=ppx_yo_dt_b_d_asin_title_o06?ie=UTF8&psc=1
@@ -214,13 +193,12 @@ list:
         author: Robert Jordan
         link: https://www.amazon.com/gp/product/B003BQZ80M/ref=ppx_yo_dt_b_d_asin_title_o09?ie=UTF8&psc=1
         genre: Fantasy
-        star: yes
-
+        
       - title: The Fires of Heaven (Wheel of Time Book 5)
         author: Robert Jordan
         link: https://www.amazon.com/gp/product/B0037V18D2/ref=ppx_yo_dt_b_d_asin_title_o01?ie=UTF8&psc=1
         genre: Fantasy
-        star: yes
+        
       
   - year: "2017"
     books:
@@ -228,26 +206,22 @@ list:
         author: Robert Jordan
         link: https://www.amazon.com/gp/product/B00329UWL8/ref=ppx_yo_dt_b_d_asin_title_o00?ie=UTF8&psc=1
         genre: Fantasy
-        star: yes
-        
+                
       - title: The Dragon Reborn (Wheel of Time Book 3)
         author: Robert Jordan
         link: https://www.amazon.com/gp/product/B0030AF5DO/ref=ppx_yo_dt_b_d_asin_title_o01?ie=UTF8&psc=1
         genre: Fantasy
-        star: yes
-
+        
       - title: The Great Hunt (Wheel of Time Book 2)
         author: Robert Jordan
         link: https://www.amazon.com/gp/product/B002VBV1R2/ref=ppx_yo_dt_b_d_asin_title_o08?ie=UTF8&psc=1
         genre: Fantasy
-        star: yes
-
+        
       - title: The Eye of the World (Wheel of Time Book 1)
         author: Robert Jordan
         link: https://www.amazon.com/gp/product/B002U3CCYM/ref=ppx_yo_dt_b_d_asin_title_o09?ie=UTF8&psc=1
         genre: Fantasy
-        star: yes
-
+        
       - title: The Dark Forest
         author: Cixin Liu, Joel Martinsen
         link: https://www.amazon.com/gp/product/B00R13OYU6/ref=ppx_yo_dt_b_d_asin_title_o02?ie=UTF8&psc=1
@@ -258,11 +232,10 @@ list:
         author: Cixin Liu, Joel Martinsen
         link: https://www.amazon.com/gp/product/B00ICN066A/ref=ppx_yo_dt_b_d_asin_title_o02?ie=UTF8&psc=1
         genre: Sci-Fi
-        star: yes
-
+        
       - title: "Exit West: A Novel"
         author: Mohsin Hamid
         link: https://www.amazon.com/gp/product/B01H17U9OQ/ref=ppx_yo_dt_b_d_asin_title_o03?ie=UTF8&psc=1
         genre: Sci-Fi
-        star: yes
+        
 
