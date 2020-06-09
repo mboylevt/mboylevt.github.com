@@ -1,7 +1,12 @@
-lastupdate: June 1, 2020
+lastupdate: June 9, 2020
 list:
   - year: "2020"
-    books:
+    books: 
+      - title: Dragons of Spring Dawning (Dragonlance Chronicles, Book 3)
+        author: Margaret Weiss and Tracy Hickman
+        link: https://www.amazon.com/Dragons-Spring-Dawning-Dragonlance-Chronicles/dp/0786915897
+        genre: Fantasy
+
       - title: "Dungeons & Dragons Monster Manual, Fifth Edition"
         author: Wizards of the Coast
         link: https://www.amazon.com/Dungeons-Dragons-Monster-Rulebook-Roleplaying/dp/0786965614/ref=pd_bxgy_img_3/143-1466735-4306141
@@ -32,7 +37,7 @@ list:
         link: https://www.amazon.com/dp/B00XN8UG3C/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1
         genre: Non-Fiction
         
-      - title: Dragons of Winter Night
+      - title: Dragons of Winter Night (Dragonlance Chronicles, Book 2)
         author: Margaret Weiss and Tracy Hickman
         link: https://www.amazon.com/dp/B004G8P1J2/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1
         genre: Fantasy
@@ -42,7 +47,7 @@ list:
         link: https://www.amazon.com/gp/product/B079YWMY2V/ref=ppx_yo_dt_b_d_asin_title_o00?ie=UTF8&psc=1
         genre: Non-Fiction
         
-      - title: Dragons of Autumn Twilight
+      - title: Dragons of Autumn Twilight (Dragonlance Chronicles, Book 1)
         author: Margaret Weiss and Tracy Hickman
         link: https://www.amazon.com/Dragons-Autumn-Twilight-Chronicles-Dragonlance-ebook/dp/B004G606K8/
         genre: Fantasy
