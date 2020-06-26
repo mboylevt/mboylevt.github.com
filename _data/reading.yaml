@@ -2,6 +2,11 @@ lastupdate: June 9, 2020
 list:
   - year: "2020"
     books: 
+      - title: Radical Brewing
+        author: Randy Mosher 
+        link: https://www.amazon.com/Radical-Brewing-Recipes-World-Altering-Meditations/dp/0937381837
+        genre: Brewing 
+
       - title: Tartine Bread 
         author: Chad Robertson 
         link: https://www.amazon.com/Tartine-Bread-Chad-Robertson/dp/0811870413 
