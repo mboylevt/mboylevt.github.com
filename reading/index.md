@@ -24,8 +24,8 @@ modified: 2020-05-25
             <a href="{{ book.link }}" target="_blank" alt="_blank" rel="nofollow noopener">{{
               book.title
             }}</a>
-            <span class="author">by {{ book.author }}</span
-            >{% if book.star %}<span class="star">★</span>{% endif %}
+            <span class="author">by {{ book.author }}</span>
+            <span class="genre">- {{ book.genre }}</span>
           </li>
           {% endfor %}
         </ul>
