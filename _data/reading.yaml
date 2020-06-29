@@ -1,7 +1,12 @@
-lastupdate: June 26, 2020
+lastupdate: June 29, 2020
 list:
   - year: "2020"
     books: 
+      - title: "Say Nothing: A True Story of Murder and Memory in Northern Ireland"
+        author: Patrick Radden Keefe  
+        link: https://www.amazon.com/Say-Nothing-Murder-Northern-Ireland/dp/0385521316
+        genre: Non-Fiction 
+
       - title: Radical Brewing
         author: Randy Mosher 
         link: https://www.amazon.com/Radical-Brewing-Recipes-World-Altering-Meditations/dp/0937381837
