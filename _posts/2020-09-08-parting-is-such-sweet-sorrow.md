@@ -20,7 +20,7 @@ In my time at Shapeways, I did a bunch of awesome technical stuff with my collea
 
 However, what I look back most fondly on at Shapeways is the people.  We’ve always had exceptional people at Shapeways, people who were mission driven, dedicated to their craft and their teams, and that has been a constant over my entire tenure.  Ex-Shapies have been telling me for years how Shapeways to this day holds a special place in their hearts, but only now, as I’m making my own departure, do I have the opportunity to share their perspective.  Companies aren’t made or broken by their achievements, by their top-level executives, or even their products.  Companies are made by their people, and I’ve been blessed to have spent most of the past decade surrounded by some of the finest I’ve ever worked with.  
 
-My biggest regret about my departure in late 2020 is that I won’t have the opportunity  to say my goodbyes in person.  Instead, I have to hope that this blog post, written from a small bedroom in a small apartment in New York City in the middle of a pandemic, can help me close out what has been the most life-changing experience I’ve had as a professional software engineer.  That aside, I cannot WAIT until we’re all able to be together again - you can bet your asses I’ll be back for my own goodbye party once we’re able to have it.
+My biggest regret about my departure in late 2020 is that I won’t have the opportunity  to say my goodbyes in person.  Instead, I have to hope that this blog post, written from a small bedroom in a small apartment in New York City in the middle of a pandemic, can help me close out what has been the most life-changing experience I’ve had as a professional software engineer.  That aside, I cannot WAIT until we’re all able to be together again - you can bet your asses I’ll be back for my own goodbye party once we’re able to have it.  But, until then:
 
 <div style="text-align: center; ">
 <i>But since it fell into my lot<br/>
@@ -123,6 +123,5 @@ Thank you, Shapeways.  Here’s to you.
 <img src="/assets/img/parting-glass/matt-shapeways/IMG_5280.png"/>
 <img src="/assets/img/parting-glass/matt-shapeways/IMG_5416.jpg"/>
 <img src="/assets/img/parting-glass/matt-shapeways/IMG_5439.jpg"/>
-<img src="/assets/img/parting-glass/matt-shapeways/IMG_5790.jpg"/>
 <img src="/assets/img/parting-glass/matt-shapeways/55B32EF0-AAAB-4689-9A82-1E257BDF4981.jpg"/>
 <img src="/assets/img/parting-glass/matt-shapeways/8699774C-C6F3-4AA6-A6DD-30EC67392708.jpg"/>
