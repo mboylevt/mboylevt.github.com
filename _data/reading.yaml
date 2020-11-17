@@ -2,59 +2,63 @@ lastupdate: July 25, 2020
 list:
   - year: "2020"
     books: 
+      - title: Red Pill
+        author: Hari Kunzru
+        link: https://www.goodreads.com/en/book/show/49188384-red-pill
+        genre: Fiction
+
       - title: The Manager's Path
         author: Camille Fournier
-        link: https://www.amazon.com/Managers-Path-Leaders-Navigating-Growth/dp/1491973897
+        link: https://www.goodreads.com/book/show/33369254-the-manager-s-path
         genre: Technology
 
       - title: The Compleat Meadmaker
         author: Ken Schramm
-        link: https://www.amazon.com/Compleat-Meadmaker-Production-Award-winning-Variations/dp/0937381802
+        link: https://www.goodreads.com/book/show/293702.The_Compleat_Meadmaker
         genre: Brewing
 
       - title: Dragons of Summer Flame
         author: Margaret Weiss and Tracy Hickman
-        link: https://www.amazon.com/Dragons-Summer-Flame-Margaret-Weis/dp/0786927089
+        link: https://www.goodreads.com/book/show/534415.Dragons_of_Summer_Flame
         genre: Fantasy
 
       - title: "Say Nothing"
         author: Patrick Radden Keefe  
-        link: https://www.amazon.com/Say-Nothing-Murder-Northern-Ireland/dp/0385521316
+        link: https://www.goodreads.com/book/show/40163119-say-nothing
         genre: Non-Fiction 
 
       - title: Radical Brewing
         author: Randy Mosher 
-        link: https://www.amazon.com/Radical-Brewing-Recipes-World-Altering-Meditations/dp/0937381837
+        link: https://www.goodreads.com/book/show/594629.Radical_Brewing
         genre: Brewing 
 
       - title: Tartine Bread 
         author: Chad Robertson 
-        link: https://www.amazon.com/Tartine-Bread-Chad-Robertson/dp/0811870413 
+        link: https://www.goodreads.com/book/show/8185785-tartine-bread
         genre: Cooking 
 
       - title: Dragons of Spring Dawning
         author: Margaret Weiss and Tracy Hickman
-        link: https://www.amazon.com/Dragons-Spring-Dawning-Dragonlance-Chronicles/dp/0786915897
+        link: https://www.goodreads.com/book/show/68378.Dragons_of_Spring_Dawning
         genre: Fantasy
 
       - title: "D&D Monster Manual, Fifth Edition"
         author: Wizards of the Coast
-        link: https://www.amazon.com/Dungeons-Dragons-Monster-Rulebook-Roleplaying/dp/0786965614/ref=pd_bxgy_img_3/143-1466735-4306141
-        genre: Gaming
+        link: https://www.goodreads.com/book/show/22219680-monster-manual
         
       - title: "Curse of Strahd (D&D)"
         author: Wizards of the Coast
-        link: https://www.amazon.com/Curse-Strahd-Dungeons-Sourcebook-Supplement/dp/0786965983/ref=sr_1_1?dchild=1&keywords=curse+of+strahd&qid=1591301787&sr=8-1
+        link: https://www.goodreads.com/book/show/28600911-curse-of-strahd
         genre: Gaming
         
       - title: "D&D Dungeon Master's Guide, Fifth Edition"
         author: Wizards of the Coast
-        link: https://www.amazon.com/Dungeons-Dragons-Dungeon-Rulebook-Roleplaying/dp/0786965622/ref=pd_bxgy_img_3/143-1466735-4306141
+        link: https://www.goodreads.com/book/show/22219679-dungeon-master-s-guide
         genre: Gaming
         
       - title: "D&D Players Handbook, Fifth Edition"
         author: Wizards of the Coast
-        link: https://www.amazon.com/Players-Handbook-Dungeons-Dragons-Wizards/dp/0786965606
+        link: https://www.goodreads.com/book/show/22219682-player-s-handbook
         genre: Gaming
         
       - title: "Flour Water Salt Yeast"

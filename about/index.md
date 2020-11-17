@@ -9,8 +9,14 @@ comments: false
 modified: 2020-05-13
 ---
 
-Hi there - I'm Matt, a technologist based in New York City.  I love to work on difficult problems where software and the physical world meet.  
-I'm presently the VP of Architecture at [Shapeways](https://www.shapeways.com), where we're bringing 3D printing to everyone. 
+### Hi there 
+I'm Matt, a technologist based in New York City.  I love to work on difficult problems where software and the physical world meet.<br>
+
+I'm currently an Engineering Manager at [Datadog](https://datadoghq.com), where I'm leading the Cloud Integrations teams.  Interested in working with me?  Drop me a line on the social links below!<br>
+
+I used to be the VP of Architecture at [Shapeways](https://www.shapeways.com), where we're bringing 3D printing to everyone.<br>
+
+Prior to that, I've worked at 3 person startups, in financial services, and even for defense contractors.<br>
 
 ### Looking for some of my content?
  * [Monolith -> Microservices Series](/monolith-to-microservices/)

@@ -11,7 +11,7 @@ url: https://mboyle.org
 owner:
   name:           Matt Boyle
   avatar:         avatar.jpg
-  bio:            "VP of Software Architecture at Shapeways"
+  bio:            "Engineering Manager @ Datadog"
   email:          m@mboyle.org
   # Social networking links used in footer. Update and remove as you like.
   twitter:        mboylevt
@@ -44,6 +44,7 @@ plugins:
   - jekyll-paginate
   - jekyll-gist
   - jekyll-feed
+  - jekyll-google-photos
 sass:
   sass_dir: _sass
   style: compressed
