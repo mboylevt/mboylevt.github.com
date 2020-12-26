@@ -5,65 +5,70 @@ list:
       - title: The Spy Who Came in from the Cold
         author: John Le Carré
         link: https://www.indiebound.org/book/9780143124757
-        genre: Fiction
+        genre: Fiction 
         
+      - title: "Tasha's Cauldron of Everything (D&D)"
+        author: Wizards of the Coast
+        link: https://www.indiebound.org/book/9780786967025
+        genre: Gaming
+       
       - title: Red Pill
         author: Hari Kunzru
-        link: https://www.goodreads.com/en/book/show/49188384-red-pill
+        link: https://www.indiebound.org/book/9780451493712
         genre: Fiction
 
-      - title: The Manager's Path
+      - title: "The Manager's Path"
         author: Camille Fournier
-        link: https://www.goodreads.com/book/show/33369254-the-manager-s-path
+        link: https://www.indiebound.org/book/9781491973899
         genre: Technology
 
       - title: The Compleat Meadmaker
         author: Ken Schramm
-        link: https://www.goodreads.com/book/show/293702.The_Compleat_Meadmaker
+        link: https://www.indiebound.org/book/9780937381809
         genre: Brewing
 
       - title: Dragons of Summer Flame
         author: Margaret Weiss and Tracy Hickman
-        link: https://www.goodreads.com/book/show/534415.Dragons_of_Summer_Flame
+        link: https://www.indiebound.org/book/9780786927081
         genre: Fantasy
 
       - title: "Say Nothing"
         author: Patrick Radden Keefe  
-        link: https://www.goodreads.com/book/show/40163119-say-nothing
+        link: https://www.indiebound.org/book/9780307279286
         genre: Non-Fiction 
 
       - title: Radical Brewing
         author: Randy Mosher 
-        link: https://www.goodreads.com/book/show/594629.Radical_Brewing
+        link: https://www.indiebound.org/book/9780937381830
         genre: Brewing 
 
       - title: Tartine Bread 
         author: Chad Robertson 
-        link: https://www.goodreads.com/book/show/8185785-tartine-bread
+        link: https://www.indiebound.org/book/9780811870412
         genre: Cooking 
 
       - title: Dragons of Spring Dawning
         author: Margaret Weiss and Tracy Hickman
-        link: https://www.goodreads.com/book/show/68378.Dragons_of_Spring_Dawning
+        link: https://www.indiebound.org/book/9780786915897
         genre: Fantasy
 
       - title: "D&D Monster Manual, Fifth Edition"
         author: Wizards of the Coast
-        link: https://www.goodreads.com/book/show/22219680-monster-manual
+        link: https://www.indiebound.org/book/9780786965618
         
       - title: "Curse of Strahd (D&D)"
         author: Wizards of the Coast
-        link: https://www.goodreads.com/book/show/28600911-curse-of-strahd
+        link: https://www.indiebound.org/buy-local/9780786965984
         genre: Gaming
         
       - title: "D&D Dungeon Master's Guide, Fifth Edition"
         author: Wizards of the Coast
-        link: https://www.goodreads.com/book/show/22219679-dungeon-master-s-guide
+        link: https://www.indiebound.org/buy-local/9780786965625
         genre: Gaming
         
       - title: "D&D Players Handbook, Fifth Edition"
         author: Wizards of the Coast
-        link: https://www.goodreads.com/book/show/22219682-player-s-handbook
+        link: https://www.indiebound.org/buy-local/9780786965601
         genre: Gaming
         
       - title: "Flour Water Salt Yeast"
@@ -113,134 +118,134 @@ list:
     books:
       - title: "Salt Fat Acid Heat: Mastering the Elements of Good Cooking"
         author: Samin Nostrat
-        link: https://www.amazon.com/dp/B01MQCCXPW/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1
+        link: https://www.indiebound.org/buy-local/9781476753836
         genre: Cooking
         
       - title: Towers of Midnight (Wheel of Time Book 13)
         author: Robert Jordan and Brandon Sanderson
-        link: https://www.amazon.com/gp/product/B003P8Q5QC/ref=ppx_yo_dt_b_d_asin_title_o00?ie=UTF8&psc=1
+        link: https://www.indiebound.org/buy-local/9781250763969
         genre: Fantasy
        
       - title: The Gathering Storm (Wheel of Time Book 12)
         author: Robert Jordan and Brandon Sanderson
-        link: https://www.amazon.com/gp/product/B003K15O3E/ref=ppx_yo_dt_b_d_asin_title_o04?ie=UTF8&psc=1
+        link: https://www.indiebound.org/buy-local/9781250256270
         genre: Fantasy
         
       - title: The Killing Light (Sacred Throne Book 3)
         author: Myke Cole
-        link: https://www.amazon.com/gp/product/B07LF66TR3/ref=ppx_yo_dt_b_d_asin_title_o05?ie=UTF8&psc=1
+        link: https://www.indiebound.org/buy-local/9780765395993
         genre: Fantasy
        
       - title: The Knife of Dreams (Wheel of Time Book 11)
         author: Robert Jordan
-        link: https://www.amazon.com/gp/product/B000SEH2NG/ref=ppx_yo_dt_b_d_asin_title_o08?ie=UTF8&psc=1
+        link: https://www.indiebound.org/buy-local/9781250256270
         genre: Fantasy
         star: no
 
       - title: The Queen of Crows (Sacred Throne Book 2)
         author: Myke Cole
-        link: https://www.amazon.com/gp/product/B078X1CJVD/ref=ppx_yo_dt_b_d_asin_title_o09?ie=UTF8&psc=1
+        link: https://www.indiebound.org/buy-local/9781250213570
         genre: Fantasy
         star: no
 
       - title: The Armored Saint (Sacred Throne Book 1)
         author: Myke Cole
-        link: https://www.amazon.com/gp/product/B0711HCDDF/ref=ppx_yo_dt_b_d_asin_title_o01?ie=UTF8&psc=1
+        link: https://www.indiebound.org/buy-local/9781250199676
         genre: Fantasy
         
       - title: The Hellsblood Bride
         author: Chuck Wendig 
-        link: https://www.amazon.com/gp/product/B0170G5TFW/ref=ppx_yo_dt_b_d_asin_title_o03?ie=UTF8&psc=1
+        link: https://www.goodreads.com/book/show/17936723-the-hellsblood-bride
         genre: Fantasy
         
       - title: Seven Blades in Black
         author: Sam Sykes
-        link: https://www.amazon.com/gp/product/B079RCCRM6/ref=ppx_yo_dt_b_d_asin_title_o04?ie=UTF8&psc=1
+        link: https://www.indiebound.org/buy-local/9780316363433
         genre: Fantasy
         
       - title: The Crossroads of Twilight (Wheel of Time Book 10)
         author: Robert Jordan
-        link: https://www.amazon.com/gp/product/B003K15P9M/ref=ppx_yo_dt_b_d_asin_title_o01?ie=UTF8&psc=1
+        link: https://www.indiebound.org/buy-local/9781250256270
         genre: Fantasy
         star: no
 
       - title: Celtic Empire
         author: Clive Cussler
-        link: https://www.amazon.com/gp/product/B079R3KT4X/ref=ppx_yo_dt_b_d_asin_title_o05?ie=UTF8&psc=1
+        link: https://www.indiebound.org/buy-local/9780525636397
         genre: Sci-Fi
         star: no
 
       - title: The Blue Blazes
         author: Chuck Wendig 
-        link: https://www.amazon.com/gp/product/B0173XHGYY/ref=ppx_yo_dt_b_d_asin_title_o06?ie=UTF8&psc=1
+        link: https://www.indiebound.org/buy-local/9780857663351
         genre: Fantasy
         
       - title: The Stars My Destination
         author: Alfred Bester
-        link: https://www.amazon.com/gp/product/B0054LNIQS/ref=ppx_yo_dt_b_d_asin_title_o08?ie=UTF8&psc=1
+        link: https://www.indiebound.org/buy-local/9781876963460
         genre: Sci-Fi
         star: no
 
       - title: Heart of Darkness
         author: Joseph Conrad
-        link: https://www.amazon.com/gp/product/B0084AMNWQ/ref=ppx_yo_dt_b_d_asin_title_o01?ie=UTF8&psc=1
+        link: https://www.indiebound.org/buy-local/9780486264646
         genre: Novella
         
   - year: "2018"
     books:
       - title: Winter's Heart (Wheel of Time Book 9)
         author: Robert Jordan
-        link: https://www.amazon.com/gp/product/B003H3IOKU/ref=ppx_yo_dt_b_d_asin_title_o03?ie=UTF8&psc=1
+        link: https://www.indiebound.org/buy-local/9781250256263
         genre: Fantasy
         star: no
 
       - title: Legion vs Phalanx 
         author: Myke Cole
-        link: https://www.amazon.com/gp/product/B07FXNNWBT/ref=ppx_yo_dt_b_d_asin_title_o06?ie=UTF8&psc=1
+        link: https://www.indiebound.org/buy-local/9781472828422
         genre: Non-Fiction
         
       - title: "Ghost Fleet: A Novel of the Next World War"
         author: P.W. Singer and August Cole
-        link: https://www.amazon.com/gp/product/B00LZ7GOI4/ref=ppx_yo_dt_b_d_asin_title_o07?ie=UTF8&psc=1
+        link: https://www.indiebound.org/buy-local/9780544705050
         genre: Novel, Fiction, Thriller
         
       - title: Artemis
         author: Andy Weir
-        link: https://www.amazon.com/gp/product/B06Y55SB48/ref=ppx_yo_dt_b_d_asin_title_o01?ie=UTF8&psc=1
+        link: https://www.indiebound.org/buy-local/9780553448146
         genre: Novel, Sci-Fi
         star: no
 
       - title: The Path of Daggers (Wheel of Time Book 8)
         author: Robert Jordan
-        link: https://www.amazon.com/gp/product/B003H4I44K/ref=ppx_yo_dt_b_d_asin_title_o02?ie=UTF8&psc=1
+        link: https://www.indiebound.org/buy-local/9781250256263
         genre: Fantasy
         star: no
 
       - title: A Crown of Swords (Wheel of Time Book 7)
         author: Robert Jordan
-        link: https://www.amazon.com/gp/product/B003H4I5G2/ref=ppx_yo_dt_b_d_asin_title_o03?ie=UTF8&psc=1
+        link: https://www.indiebound.org/buy-local/9781250256263
         genre: Fantasy
         
       - title: "Weapons of Math Destruction: How Big Data Increases Inequity and Threatens Democracy"
         author: Cathy O'Neil
-        link: https://www.amazon.com/gp/product/B019B6VCLO/ref=ppx_yo_dt_b_d_asin_title_o06?ie=UTF8&psc=1
+        link: https://www.indiebound.org/buy-local/9780735286511
         genre: Non-Fiction
         star: no
 
       - title: Himself
         author: Jess Kidd
-        link: https://www.amazon.com/gp/product/B01HMXRX02/ref=ppx_yo_dt_b_d_asin_title_o08?ie=UTF8&psc=1
+        link: https://www.indiebound.org/buy-local/9781501145186
         genre: Non-Fiction
         star: no
       
       - title: Lord of Chaos (Wheel of Time Book 6)
         author: Robert Jordan
-        link: https://www.amazon.com/gp/product/B003BQZ80M/ref=ppx_yo_dt_b_d_asin_title_o09?ie=UTF8&psc=1
+        link: https://www.indiebound.org/buy-local/9781250256218
         genre: Fantasy
         
       - title: The Fires of Heaven (Wheel of Time Book 5)
         author: Robert Jordan
-        link: https://www.amazon.com/gp/product/B0037V18D2/ref=ppx_yo_dt_b_d_asin_title_o01?ie=UTF8&psc=1
+        link: https://www.indiebound.org/buy-local/9781250256218
         genre: Fantasy
         
       
@@ -248,22 +253,22 @@ list:
     books:
       - title: The Shadow Rising (Wheel of Time Book 4)
         author: Robert Jordan
-        link: https://www.amazon.com/gp/product/B00329UWL8/ref=ppx_yo_dt_b_d_asin_title_o00?ie=UTF8&psc=1
+        link: https://www.indiebound.org/buy-local/9781250256218
         genre: Fantasy
                 
       - title: The Dragon Reborn (Wheel of Time Book 3)
         author: Robert Jordan
-        link: https://www.amazon.com/gp/product/B0030AF5DO/ref=ppx_yo_dt_b_d_asin_title_o01?ie=UTF8&psc=1
+        link: https://www.indiebound.org/buy-local/9781250251510
         genre: Fantasy
         
       - title: The Great Hunt (Wheel of Time Book 2)
         author: Robert Jordan
-        link: https://www.amazon.com/gp/product/B002VBV1R2/ref=ppx_yo_dt_b_d_asin_title_o08?ie=UTF8&psc=1
+        link: https://www.indiebound.org/buy-local/9781250251510
         genre: Fantasy
         
       - title: The Eye of the World (Wheel of Time Book 1)
         author: Robert Jordan
-        link: https://www.amazon.com/gp/product/B002U3CCYM/ref=ppx_yo_dt_b_d_asin_title_o09?ie=UTF8&psc=1
+        link: https://www.indiebound.org/buy-local/9781250251510
         genre: Fantasy
         
       - title: The Dark Forest
