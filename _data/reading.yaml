@@ -2,6 +2,11 @@ lastupdate: November 15, 2020
 list:
   - year: "2020"
     books: 
+      - title: The Spy Who Came in from the Cold
+        author: John Le Carré
+        link: https://www.indiebound.org/book/9780143124757
+        genre: Fiction
+        
       - title: Red Pill
         author: Hari Kunzru
         link: https://www.goodreads.com/en/book/show/49188384-red-pill
@@ -63,32 +68,32 @@ list:
         
       - title: "Flour Water Salt Yeast"
         author: Ken Forkish
-        link: https://www.amazon.com/dp/B007SGLZH6/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1
+        link: https://www.indiebound.org/book/9781607742739
         genre: Cooking
         
       - title: "The Silk Roads: A New History of the World"
         author: Peter Frankopan
-        link: https://www.amazon.com/dp/B00XN8UG3C/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1
+        link: https://www.indiebound.org/book/9781101912379
         genre: Non-Fiction
         
       - title: Dragons of Winter Night
         author: Margaret Weiss and Tracy Hickman
-        link: https://www.amazon.com/dp/B004G8P1J2/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1
+        link: https://www.indiebound.org/book/9780786916092
         genre: Fantasy
         
       - title: Release It!
         author: Michael T. Nygard
-        link: https://www.amazon.com/gp/product/B079YWMY2V/ref=ppx_yo_dt_b_d_asin_title_o00?ie=UTF8&psc=1
+        link: https://www.indiebound.org/book/9781680502398
         genre: Non-Fiction
         
       - title: Dragons of Autumn Twilight 
         author: Margaret Weiss and Tracy Hickman
-        link: https://www.amazon.com/Dragons-Autumn-Twilight-Chronicles-Dragonlance-ebook/dp/B004G606K8/
+        link: https://www.indiebound.org/book/9780786915743
         genre: Fantasy
         
       - title: Sixteenth Watch
         author: Myke Cole
-        link: https://www.amazon.com/dp/B0844JLYVR/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1
+        link: https://www.indiebound.org/book/9780857668059
         genre: Sci-Fi
         star: no
 
@@ -100,7 +105,7 @@ list:
 
       - title: A Memory of Light (Wheel of Time Book 14)
         author: Robert Jordan and Brandon Sanderson
-        link: https://www.amazon.com/gp/product/B00BMKDTNC/ref=ppx_yo_dt_b_d_asin_title_o05?ie=UTF8&psc=1
+        link: https://www.indiebound.org/book/9781250252623
         genre: Fantasy
         
 
