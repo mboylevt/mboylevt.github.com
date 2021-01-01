@@ -301,7 +301,7 @@ list:
 
       - title: Starship Troopers
         author: Robert Heinlein
-        link:https://www.indiebound.org/buy-local/9780441783588
+        link: https://www.indiebound.org/buy-local/9780441783588
         genre: Sci-Fi
 
       - title: The Forever War
