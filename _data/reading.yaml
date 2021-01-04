@@ -1,5 +1,12 @@
-lastupdate: December 26, 2020
+lastupdate: January 4, 2021
 list:
+  - year: "2021" 
+    books: 
+      - title: Heroes' Feast (Dungeons & Dragons)
+        author: Kyle Newman, Jon Peterson, Michael Witwer
+        link: https://www.indiebound.org/book/9781984858900
+        genre: Cooking 
+
   - year: "2020"
     books: 
       - title: The Spy Who Came in from the Cold
