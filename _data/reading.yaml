@@ -2,6 +2,11 @@ lastupdate: January 4, 2021
 list:
   - year: "2021" 
     books: 
+      - title: The House on Vesper Sands
+        author: "Paraic O'Donnell"
+        link: https://www.indiebound.org/book/9781951142247
+        genre: Fiction 
+        
       - title: Heroes' Feast (Dungeons & Dragons)
         author: Kyle Newman, Jon Peterson, Michael Witwer
         link: https://www.indiebound.org/book/9781984858900
