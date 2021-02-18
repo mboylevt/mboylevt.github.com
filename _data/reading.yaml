@@ -2,6 +2,16 @@ lastupdate: January 4, 2021
 list:
   - year: "2021" 
     books: 
+      - title: "Malt: A Practical Guide from Field to Brewhouse"
+        author: John Mallett
+        link: https://www.indiebound.org/book/9781938469121
+        genre: Brewing 
+        
+      - title: For the Love of Hops
+        author: Stan Hieronymus
+        link: https://www.indiebound.org/book/9781938469015
+        genre: Brewing 
+    
       - title: The House on Vesper Sands
         author: "Paraic O'Donnell"
         link: https://www.indiebound.org/book/9781951142247
