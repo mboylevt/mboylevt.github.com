@@ -1,7 +1,22 @@
-lastupdate: January 4, 2021
+lastupdate: April 24, 2021
 list:
   - year: "2021" 
     books: 
+      - title: "Candlekeep Mysteries"
+        author: Wizards of the Coast
+        link: https://www.indiebound.org/book/9780786967223
+        genre: Gaming
+
+      - title: "Farmhouse Ales: Culture and Craftsmanship in the Belgian Tradition"
+        author: Phil Markowski
+        link: https://www.indiebound.org/book/9780937381847
+        genre: Brewing 
+
+      - title: "Water: A Comprehensive Guide for Brewers"
+        author: Colin Kaminski and John J. Palmer
+        link: https://www.indiebound.org/book/9780937381991
+        genre: Brewing 
+
       - title: "Malt: A Practical Guide from Field to Brewhouse"
         author: John Mallett
         link: https://www.indiebound.org/book/9781938469121
