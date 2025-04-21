@@ -82,7 +82,6 @@ Thank you, Shapeways.  Here’s to you.
 <img src="/assets/img/parting-glass/matt-shapeways/IMG_2263.jpg"/>
 <img src="/assets/img/parting-glass/matt-shapeways/IMG_2272.jpg"/>
 <img src="/assets/img/parting-glass/matt-shapeways/IMG_2285.jpg"/>
-<img src="/assets/img/parting-glass/matt-shapeways/IMG_2291.jpg"/>
 <img src="/assets/img/parting-glass/matt-shapeways/IMG_2297.jpg"/>
 <img src="/assets/img/parting-glass/matt-shapeways/IMG_2299.jpg"/>
 <img src="/assets/img/parting-glass/matt-shapeways/IMG_2315.jpg"/>
