@@ -141,4 +141,4 @@ Happy testing!
 In case you missed it above, here’s a link to the [repo](https://github.com/Shapeways/coyote_framework) on Github.
 
 ## Acknowledgements
-This little bundle of joy wouldn’t have been possible with out the hard work of current and former Shapeways employees, specifically [Justin Iso](https://github.com/justiniso), [Hans Wang](https://github.com/hansw47), and Zheng Qin. Thanks guys!
+This little bundle of joy wouldn’t have been possible with out the hard work of current and former Shapeways employees, specifically [Hans Wang](https://github.com/hansw47) and Zheng Qin. Thanks guys!
